@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000">
+  <rect width="1000" height="1000" fill="red"/>
+  <text x="100" y="500" font-size="48">TEST SVG 1000x1000</text>
+</svg>
